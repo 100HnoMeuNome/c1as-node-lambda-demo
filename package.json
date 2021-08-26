@@ -16,6 +16,6 @@
     "express-fileupload": "^1.2.0",
     "lodash": "^4.17.20",
     "morgan": "^1.10.0",
-    "serverless-http": "^2.6.0"
+    "serverless-http": "^2.7.0"
   }
 }
